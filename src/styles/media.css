@@ -1,0 +1,342 @@
+@media (max-width: 1199.5px){
+    .customFooter{
+        padding: 50px 70px;
+    }
+}
+
+@media (max-width: 1150.5px){
+    .customFooter{
+        padding: 50px;
+    }
+    .customFooter .footerCard{
+        padding: 60px 50px;
+        padding-bottom: 50px;
+    }
+}
+
+@media (max-width: 991.5px){
+    .App .headerSection .leftHeaderSection h1.headerTitle{
+        font-size: 38px;
+        font-weight: 800!important;
+    }
+    .App .headerSection .leftHeaderSection p.headerSubtitle{
+        font-size: 14px;
+        padding: 0px;
+        padding-right: 50px;
+    }
+    .App .headerSection .rightHeaderSection img{
+        width: 80%!important;
+        height: 80%!important;
+    }
+    .App .moreAboutSection .moreAboutContent{
+        padding: 30px 60px;
+    }
+    .App .callToAction .ctoDiv .imageDiv img:last-child{
+        margin-top: -150px!important;
+        margin-left: 150px;
+    }
+    .App .poweredBySection .poweredByContent img{
+        width: 15%!important;
+    }
+    .customFooter{
+        padding: 50px;
+    }
+    .customFooter .footerCard{
+        padding: 60px 50px;
+        padding-bottom: 50px;
+    }
+}
+
+@media (max-width: 950.5px){
+    .customFooter .footerCard{
+        padding: 50px 40px;
+        padding-bottom: 40px;
+    }
+    .customFooter .footerCard .secondFooterCard{
+        padding: 0px;
+    }
+}
+
+@media (max-width: 850.5px){
+    .customFooter{
+        padding: 30px;
+    }
+    .customFooter .footerCard{
+        padding: 40px 30px;
+        padding-bottom: 30px;
+    }
+}
+
+@media (max-width: 890.5px){
+    .App .headerSection .leftHeaderSection h1.headerTitle{
+        font-size: 33px;
+        font-weight: 800!important;
+    }
+    .App .callToAction .ctoDiv{
+        padding: 100px 50px;
+    }
+    .App .callToAction .ctoDiv .contentDiv h3{
+        font-size: 30px;
+        font-weight: 700!important;
+    }
+    .App .callToAction .ctoDiv .imageDiv{
+        padding: 0px;
+    }
+    .App .callToAction .ctoDiv .imageDiv img:last-child{
+        margin-top: -200px!important;
+        margin-left: 60px;
+        filter: drop-shadow(-6px -10px #24292E);
+    }
+    .customNav{
+        padding: 20px;
+    }
+    .customNav ul div li{
+        margin: 0px 5px;
+    }
+    .customNav ul div li a{
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+    .customNav ul div li a#getStarted{
+        padding: 10px 15px;
+    }
+}
+
+@media (max-width: 767.5px){
+    .App .headerSection{
+        padding: 30px 0px;
+    }
+    .App .headerSection .rightHeaderSection img{
+        width: 50%!important;
+        height: 50%!important;
+        padding: 50px;
+    }
+    .App .moreAboutSection .moreAboutContent .moreAboutCard .imageDiv img{
+        width: 80%;
+        height: 250px;
+    }
+    .App .callToAction .ctoDiv{
+        padding: 100px;
+    }
+    .App .callToAction .ctoDiv .imageDiv{
+        padding: 100px 0px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    .App .shortTextSection .shortTextDiv{
+        padding: 70px;
+    }
+    .App .poweredBySection .poweredByContent{
+        padding: 40px;
+    }
+    .App .poweredBySection .poweredByContent img{
+        width: 15%!important;
+    }
+    .customNav{
+        padding: 30px 50px;
+    }
+    .customNav ul div.navDiv.second{
+        display: none;
+    }
+    .customFooter .footerCard ul.footerIconList{
+        padding: 0px;
+    }
+    .customFooter .footerCard .secondFooterCard{
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 730.5px){
+    .App .poweredBySection .poweredByContent img{
+        width: 20%!important;
+    } 
+}
+
+@media (max-width: 600.5px){
+    .customNav{
+        padding: 30px 20px;
+    }
+    .App .headerSection .leftHeaderSection h1.headerTitle{
+        font-size: 30px;
+        font-weight: 800!important;
+    }
+    .App .headerSection .rightHeaderSection img{
+        width: 60%!important;
+        height: 60%!important;
+        padding: 50px;
+    }
+    .App .callToAction .ctoDiv .imageDiv{
+        padding: 100px 0px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    .App .callToAction .ctoDiv{
+        padding: 70px 50px;
+    }
+    .App .callToAction .ctoDiv .imageDiv{
+        padding: 50px 0px;
+    }
+}
+
+@media (max-width: 575.5px){
+    .App .headerSection{
+        padding: 20px 30px;
+    }
+    .App .moreAboutSection .moreAboutContent{
+        padding: 10px 30px;
+    }
+    .App .moreAboutSection .moreAboutContent .moreAboutCard{
+        padding: 40px 0px;
+    }
+    .App .moreAboutSection .moreAboutContent .moreAboutCard .contentDiv h3{
+        font-size: 20px;
+    }
+    .App .moreAboutSection .moreAboutContent .moreAboutCard .contentDiv p{
+        font-size: 13px;
+    }
+    #middleAboutCol{
+        -ms-flex-order: 13;
+        order: 13;
+    }
+    .App .moreAboutSection .moreAboutContent .moreAboutCard .imageDiv{
+        text-align: center;
+    }
+    .App .moreAboutSection .moreAboutContent .moreAboutCard .imageDiv img{
+        width: 60%;
+        height: 200px;
+    }
+    .customFooter{
+        padding: 20px;
+        padding-bottom: 30px;
+    }
+    .customFooter .footerCard{
+        border-radius: 20px;
+        padding: 30px 20px;
+        padding-bottom: 15px;
+    }
+    .App .shortTextSection .shortTextDiv{
+        padding: 50px 40px;
+        padding-bottom: 40px;
+    }
+    .App .poweredBySection .poweredByContent{
+        padding: 40px 20px;
+    }
+    .App .poweredBySection .poweredByContent img{
+        width: 25%!important;
+    } 
+}
+
+@media (max-width: 470.5px){
+    .App .newsLetterSection .newsLetterContent .inputDiv{
+        width: 370px;
+    }
+}
+
+@media (max-width: 425.5px){
+    .customNav{
+        padding: 20px 15px;
+    }
+    .captionNotification p{
+        font-size: 13px;
+    }
+    .customNav ul div li a.title{
+        padding: 5px 0px;
+    }
+    .customNav ul div li#download{
+        display: none;
+    }
+    .App .headerSection{
+        padding: 20px 20px;
+    }
+    .App .headerSection .leftHeaderSection h1.headerTitle{
+        font-size: 29px;
+        line-height: 35px;
+    }
+    .App .headerSection .leftHeaderSection p.headerSubtitle{
+        font-size: 13px;
+        padding: 0px;
+    }
+    .App .headerSection .leftHeaderSection div.buttonDiv{
+        padding: 35px 0px;
+    }
+    .App .headerSection .leftHeaderSection div.buttonDiv a{
+        padding: 15px 20px;
+        border-radius: 8px;
+        font-size: 13px;
+    }
+    .App .headerSection .rightHeaderSection img{
+        width: 70%!important;
+        height: 70%!important;
+        padding: 20px;
+    }
+    .App .callToAction .ctoDiv .imageDiv{
+        padding: 100px 0px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    .App .callToAction .ctoDiv{
+        padding: 50px 30px;
+        padding-bottom: 100px;
+    }
+    .App .callToAction .ctoDiv .contentDiv h3{
+        font-size: 26px;
+        font-weight: 700!important;
+    }
+    .App .callToAction .ctoDiv .contentDiv p{
+        font-size: 14px;
+        padding: 10px 0px;
+    }
+    .App .callToAction .ctoDiv .contentDiv .buttonDiv a{
+        padding: 16px 20px;
+        font-size: 13px;
+    }
+    .App .callToAction .ctoDiv .imageDiv{
+        display: none;
+    }
+    .App .newsLetterSection{
+        padding: 30px 20px;
+    }
+    .App .shortTextSection .shortTextDiv h3{
+        font-size: 17px;
+    }
+    .App .shortTextSection .shortTextDiv p{
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 425.5px){
+    .App .headerSection .leftHeaderSection h1.headerTitle{
+        font-size: 25px;
+    }
+    .App h3.sectionTitle{
+        font-size: 23px;
+    }
+    .App p.sectionSubTitle{
+        font-size: 13px;
+    }
+    .App .moreAboutSection .moreAboutContent{
+        padding: 20px 30px;
+    }
+    .App .moreAboutSection .moreAboutContent .moreAboutCard{
+        padding: 10px 0px;
+    }
+}
+
+@media (max-width: 390.5px){
+    .captionNotification p{
+        font-size: 12px;
+        padding: 20px 0px;
+    }
+    .App .shortTextSection .shortTextDiv{
+        padding: 30px 25px;
+        padding-bottom: 20px;
+    }
+    .customFooter{
+        padding: 0px;
+    }
+    .customFooter .footerCard{
+        border-radius: 0px;
+        padding: 30px 20px;
+        padding-bottom: 10px;
+    }
+}
