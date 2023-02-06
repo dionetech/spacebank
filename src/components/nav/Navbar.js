@@ -4,7 +4,7 @@ const Navbar = ({ toggleDarkmode }) => {
     return (
         <>
             <div className="captionNotification">
-                <p>Check out great features in our mobile app, <a href="/">Download App</a></p>
+                <p>Check out great features in our mobile app, <Link href="/">Download App</Link></p>
             </div>
             <nav className="customNav sticky-top">
                 <ul>

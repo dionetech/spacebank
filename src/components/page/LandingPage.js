@@ -4,6 +4,7 @@ import { BsChevronDoubleDown } from "react-icons/bs";
 import { moreAboutUs } from "@/data/moreAboutUs";
 import MoreAboutCard from "../card/MoreAboutCard";
 import { useState } from "react";
+import { ImSpinner8 } from "react-icons/im";
 // import { motion } from "framer-motion";
 // import { BsFillCheckCircleFill } from "react-icons/bs";
 
